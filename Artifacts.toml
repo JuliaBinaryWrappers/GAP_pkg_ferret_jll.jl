@@ -1,0 +1,116 @@
+[[GAP_pkg_ferret]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0501b819137169453a91a3aa86fe5eaa846a8969"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "50a961dc39259c6c1fd83c275a92f5c8c778b867bcb8c068c952460dba42375f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.aarch64-linux-gnu-cxx03.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54a79288aa39df4b7d71d8c94604a5b73d77ea9d"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "e59a400d2c56dcc31efa009e54c1fd3a0be54aa5bd810032053693ea4aacbec9"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.aarch64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f2ab5d83db93db68e1ecc105c465d60772a7aea1"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "f31a4d98b71efe44159d12fb0ca2f175f7fdca972a2102f24e2e0cf6cdd52fcf"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.aarch64-linux-musl-cxx03.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a4dbbd763167ef9a75307ec3c228516ee51c310"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "9bde94f96a95dae01fae8c8abfeb22b5c0be60f5afe81032cbf501d2757b769f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.aarch64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7956709a4bc79c665d4f80376b186603ea424199"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "1f64a492e87ca153f8c83ae8b69b60f4f4735b1bc357704377db762a7b9bbc1e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ed88956adf7163fc179af336ee774928685438d8"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "50c579935521c81721cf588415e9df26aa66d788d83d49d768bca5a2a34aa382"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+git-tree-sha1 = "24c457e01050128880d51d1570b424f29247d03c"
+os = "macos"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "99d9781bd54873ad7f888317f07a22db887eccae35a54eb8dad1634af07d6134"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "90e518c6c47c52e35913f4216d53f67c353822f4"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "a2f44ede4393c536d7daf59d018b119b620026802f92ec9cd715bd67776a0a18"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.x86_64-linux-gnu-cxx03.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "36321d163f7ce03dd1ea221211c59d28bb149cdf"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "c468c5ed3be6492266d5416f756e0ca440c9a434bb321b49f607acf69869d696"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.x86_64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b3b65c4d6bd6035fe96b742ac579d35b90d1e21"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "89eaf42b55947163223c4546e42fa73d7dc0a541a7d7c2aad5dd0f87da7d1808"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.x86_64-linux-musl-cxx03.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c6842e3c1f09614af3c14fa3d341e65f17e7a56"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "24924ee03fa4ba9e52860ffe424b3b48be61eae30339267f89ddfac0321c034b"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.x86_64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_ferret]]
+arch = "x86_64"
+git-tree-sha1 = "daa2c3991506e39c8aeb21c95c09062f4d91cd3e"
+os = "freebsd"
+
+    [[GAP_pkg_ferret.download]]
+    sha256 = "13021033635bae5ffb60a1f71e0a42c5d1a6b86621a57188efb512d084632408"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_ferret_jll.jl/releases/download/GAP_pkg_ferret-v100.0.500+0/GAP_pkg_ferret.v100.0.500.x86_64-unknown-freebsd.tar.gz"
