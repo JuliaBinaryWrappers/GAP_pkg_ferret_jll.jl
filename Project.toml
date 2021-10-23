@@ -1,6 +1,6 @@
 name = "GAP_pkg_ferret_jll"
 uuid = "d6652ff9-bdf9-5f19-9e6f-c10727807222"
-version = "100.0.501+0"
+version = "100.0.501+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
