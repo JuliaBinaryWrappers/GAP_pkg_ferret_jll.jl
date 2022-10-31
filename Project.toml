@@ -1,6 +1,6 @@
 name = "GAP_pkg_ferret_jll"
 uuid = "d6652ff9-bdf9-5f19-9e6f-c10727807222"
-version = "100.0.900+0"
+version = "100.0.900+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,4 +14,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 JLLWrappers = "1.2.0"
 julia = "1.6"
 GAP_lib_jll = "~400.1201.100"
-GAP_jll = "~400.1200.100"
+GAP_jll = "~400.1200.101"
